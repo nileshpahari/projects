@@ -6,10 +6,12 @@
 ---
 
 ## Full-stack
+
 ### Clipzo
 A web app to download videos or audio from YouTube and other platforms using yt-dlp and FFmpeg, with custom options.  
 *(Also in [Web](#web), [Rust](#rust))*
 - [Code](https://github.com/nileshpahari/clipzo) | [Live](https://clipzo.com)
+
 ### Contest Pulse
 A web app where users can see upcoming coding contests from various platforms like Codeforces, Leetcode, CodeChef, etc., bookmark them, and enable notifications.  
 
@@ -20,13 +22,16 @@ A decentralized voting platform built on the Solana blockchain.
 *(Also in [Solana Programs](#solana-programs))*
 
 - [Code](https://github.com/nileshpahari/votana) | [Live](https://votana.com)
+
 ### Top Chess
 A multiplayer real-time chess platform similar to chess.com or lichess.org.  
 
 - [Code](https://github.com/nileshpahari/top-chess) 
 
-
-
+### Shortly
+A simple URL shortener
+- [Code](https://github.com/nileshpahari/shortly)
+*(Also in [Web](#web))*
 
 ---
 
@@ -47,6 +52,7 @@ A web app to download videos or audio from YouTube and other platforms using yt-
 *(Also in [Full-stack](#full-stack), [Rust](#rust))*
 
 - [Code](https://github.com/nileshpahari/clipzo) | [Live](https://clipzo.vercel.app)
+
 ### Walliy
 A web-based crypto wallet where users can store private keys and interact with smart contracts.  
 
@@ -57,6 +63,10 @@ A blogging platform like Medium, allowing users to create, read, update, and del
 
 - [Code](https://github.com/nileshpahari/basic-react-blog) | [Live](https://basic-react-blog.com)
 
+### Shortly
+A simple URL shortener
+- [Code](https://github.com/nileshpahari/shortly)
+*(Also in [Full-stack](#full-stack))*
 
 ---
 
@@ -70,6 +80,10 @@ A decentralized voting platform built on the Solana blockchain.
 ---
 
 ## Rust
+### collision 
+A simple implementation of git in rust 
+- [Code](https://github.com/nileshpahari/collision)
+
 ### Clipzo
 A web app to download videos or audio from YouTube and other platforms using yt-dlp and FFmpeg, with custom options.  
 *(Also in [Full-stack](#full-stack), [Web](#web))*
