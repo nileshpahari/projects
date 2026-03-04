@@ -109,4 +109,4 @@ A Twitter-like program on the solana blockchain where users can create and delet
 
 #### dict
 A simple word dictionary implemented using HashMap, supporting both interactive and command-line modes.
-- [Code](github.com/nileshpahari/dict)
+- [Code](https://github.com/nileshpahari/dict)
