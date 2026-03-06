@@ -7,13 +7,37 @@
 
 ## C
 
+#### shell
+Built a shell
+- [Code](https://github.com/nileshpahari/shell)
+
 #### dict
 A simple word dictionary implemented using HashMap, supporting both interactive and command-line modes.
 - [Code](https://github.com/nileshpahari/dict)
 
-### shell
-Built a shell
-- [Code](https://github.com/nileshpahari/shell)
+---
+
+## Rust
+
+#### collision
+A simple implementation of git in rust (WIP)
+- [Code](https://github.com/nileshpahari/collision)
+
+#### Clipzo
+A web app to download videos or audio from YouTube and other platforms using yt-dlp and FFmpeg, with custom options.
+*(Also in [Full-stack](#full-stack), [Web](#web))*
+
+- [Code](https://github.com/nileshpahari/clipzo) | [Live](https://clipzo.vercel.app)
+
+#### HTTP Server
+A simple multi-threaded HTTP server built.
+
+- [Code](https://github.com/nileshpahari/rs-http)
+
+#### Twitter-Like program
+A Twitter-like program on the solana blockchain where users can create and delete tweets, react to them, and add comments.
+
+- [Code](https://github.com/nileshpahari/twitter-program)
 
 ---
 
@@ -89,29 +113,4 @@ A decentralized voting platform built on the Solana blockchain.
 *(Also in [Full-stack](#full-stack))*
 
 - [Code](https://github.com/nileshpahari/votana) | [Live](https://votana.com)
-
----
-
-## Rust
-
-#### collision
-A simple implementation of git in rust
-- [Code](https://github.com/nileshpahari/collision)
-
-#### Clipzo
-A web app to download videos or audio from YouTube and other platforms using yt-dlp and FFmpeg, with custom options.
-*(Also in [Full-stack](#full-stack), [Web](#web))*
-
-- [Code](https://github.com/nileshpahari/clipzo) | [Live](https://clipzo.vercel.app)
-
-#### HTTP Server
-A simple multi-threaded HTTP server built.
-
-- [Code](https://github.com/nileshpahari/rs-http)
-
-#### Twitter-Like program
-A Twitter-like program on the solana blockchain where users can create and delete tweets, react to them, and add comments.
-
-- [Code](https://github.com/nileshpahari/twitter-program)
-
 
