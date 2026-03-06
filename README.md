@@ -5,6 +5,18 @@
 
 ---
 
+## C
+
+#### dict
+A simple word dictionary implemented using HashMap, supporting both interactive and command-line modes.
+- [Code](https://github.com/nileshpahari/dict)
+
+### shell
+Built a shell
+- [Code](https://github.com/nileshpahari/shell)
+
+---
+
 ## Full-stack
 
 #### Clipzo
@@ -103,10 +115,3 @@ A Twitter-like program on the solana blockchain where users can create and delet
 - [Code](https://github.com/nileshpahari/twitter-program)
 
 
----
-
-## C
-
-#### dict
-A simple word dictionary implemented using HashMap, supporting both interactive and command-line modes.
-- [Code](https://github.com/nileshpahari/dict)
