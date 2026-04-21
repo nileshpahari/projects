@@ -15,6 +15,10 @@ Built a shell
 A simple word dictionary implemented using HashMap, supporting both interactive and command-line modes.
 - [Code](https://github.com/nileshpahari/dict)
 
+#### c-vm
+A simple virtual machine that can interpret and run a subset of LC-3 assembly instructions.
+- [Code](https://github.com/nileshpahari/c-vm)
+
 ---
 
 ## Rust
@@ -22,6 +26,10 @@ A simple word dictionary implemented using HashMap, supporting both interactive 
 #### collision
 A simple implementation of git in rust (WIP)
 - [Code](https://github.com/nileshpahari/collision)
+
+#### rs-smptr
+Implementation of some smart points in rust
+- [Code](https://github.com/nileshpahari/rs-smptr)
 
 #### Clipzo
 A web app to download videos or audio from YouTube and other platforms using yt-dlp and FFmpeg, with custom options.
