@@ -70,7 +70,7 @@ A decentralized voting platform built on the Solana blockchain.
 *(Also in [Solana Programs](#solana-programs))*
 - [Code](https://github.com/nileshpahari/votana) | [Live](https://votana.com)
 
-#### Top Chess
+#### TopChess
 A real-time multiplayer chess platform with WebSocket-based matchmaking, live move broadcasting, server-side move validation, in-game chat, guest and OAuth sign-in, ELO ratings, and game history.
 - [Code](https://github.com/nileshpahari/topchess)
 
