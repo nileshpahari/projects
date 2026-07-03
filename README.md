@@ -71,8 +71,8 @@ A decentralized voting platform built on the Solana blockchain.
 - [Code](https://github.com/nileshpahari/votana) | [Live](https://votana.com)
 
 #### Top Chess
-A multiplayer real-time chess platform similar to chess.com or lichess.org.
-- [Code](https://github.com/nileshpahari/topchess-v1)
+A real-time multiplayer chess platform with WebSocket-based matchmaking, live move broadcasting, server-side move validation, in-game chat, guest and OAuth sign-in, ELO ratings, and game history.
+- [Code](https://github.com/nileshpahari/topchess)
 
 #### Shortly
 A simple URL shortener
